@@ -1,0 +1,4 @@
+listen 192.168.0.24
+port_f :5000 {open_port}
+user_n Pinback
+pass_w password
