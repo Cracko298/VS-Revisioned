@@ -1,2 +1,2 @@
 # VS-Revisioned
-A full-featured(ish) mod for Vampire Slayer: The Resurrection. It aims to redo some mechanics of both Slayers &amp; Vampires. To Make the game more "fair", as well as chaotic.
+- A Mod that aims to bring the game to a new more "exiting" and matched fight. (Really Early Development, no installation steps yet).
